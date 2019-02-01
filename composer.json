@@ -1,9 +1,9 @@
 {
-    "name": "a2lix/translation-form-bundle",
+    "name": "ricardl/translation-form-bundle-sf3",
     "type": "symfony-bundle",
     "description": "Translate your doctrine objects easily with a custom form field",
     "keywords": ["symfony2", "doctrine2", "i18n", "internationalization", "translation", "translatable", "form", "gedmo", "knplabs"],
-    "homepage": "https://github.com/a2lix/TranslationFormBundle",
+    "homepage": "https://github.com/ricardl/TranslationFormBundleSF3",
     "license": "MIT",
     "authors": [
         {
@@ -12,6 +12,9 @@
         },
         {
             "name": "David ALLIX"
+        },
+        {
+            "name": "Derivative for Gedmo SF3 compatibility"
         }
     ],
     "require": {
@@ -28,7 +31,7 @@
     "target-dir": "A2lix/TranslationFormBundle",
     "extra": {
         "branch-alias": {
-            "dev-master": "1.x-dev"
+            "dev-master": "0.1-dev"
         }
     }
 }
