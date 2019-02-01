@@ -1,4 +1,19 @@
-A2lixTranslationFormBundle
+Fork - TranslationFormBundle
+============================
+Fork of TranslationFormBundle v1.x@dev. Added compatibility to Symfony 3.* for Gedmo
+
+Original Bundle: https://github.com/a2lix/TranslationFormBundle
+
+Original Branch of the Bundle: https://github.com/a2lix/TranslationFormBundle/tree/5041f05883685d944e2d9b44343709b51a1d476f
+
+
+
+
+
+
+
+Old Readme
+----------
 
 * If you use symfony 2.2 or less, configure your composer.json with:
 "a2lix/translation-form-bundle": "0.*@dev"
